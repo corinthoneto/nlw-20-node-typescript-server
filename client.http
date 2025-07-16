@@ -19,8 +19,8 @@ POST {{baseUrl}}/rooms
 Content-Type: application/json
 
 {
-    "name": "Sala de teste 2",
-    "description": "Essa é uma sala de teste 2"
+    "name": "Sala de teste 3",
+    "description": "Essa é uma sala de teste 3"
 }
 
 ###
