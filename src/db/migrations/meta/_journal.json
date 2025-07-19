@@ -15,6 +15,13 @@
       "when": 1752545559139,
       "tag": "0001_lucky_scourge",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752946263672,
+      "tag": "0002_pretty_lady_vermin",
+      "breakpoints": true
     }
   ]
 }
