@@ -36,11 +36,12 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 
 ###
 
-# Create Room
+# Create question
 # @name createQuestion
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+//POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/rooms/895a2475-d6fd-4f61-bbb3-9a7d3c3d62c9/questions
 Content-Type: application/json
 
 {
-    "question": "Qual o principio da lei de murph?"
+    "question": "O que é React?"
 }
